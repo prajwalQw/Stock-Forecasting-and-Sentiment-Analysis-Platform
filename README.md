@@ -23,3 +23,33 @@ WordPress SQL
 Other Tools
 XAMPP
 API Integration for Tweets and Stock Data
+
+Admin Creds:
+Username: admin
+Email Address: stockpredictorapp@gmail.com
+Password: Samplepass@123
+
+There are two roles in the system: Admin and User.
+
+Users can:
+
+Register and Login
+Check Real Time stock prices
+Read recent news about different stocks
+Currency Converter
+Edit or delete their own profile
+Educate the user about stocks
+Download list of stock tickers
+Predict Stock prices for the next 7 days for all NASDAQ and NSE stocks
+Admin can:
+
+Create, Retrieve, Update Delete Users.
+Manually trigger emails.
+Register and Login
+Check Real Time stock prices
+Read recent news about different stocks
+Currency Converter
+Edit or delete their own profile
+Educate the user about stocks
+Download list of stock tickers
+Predict Stock prices for the next 7 days for all NASDAQ and NSE stocks
