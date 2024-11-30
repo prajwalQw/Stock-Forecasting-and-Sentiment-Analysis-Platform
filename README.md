@@ -1,4 +1,4 @@
-#stock Forecasting and Sentiment Analysis Platform
+# Stock Forecasting and Sentiment Analysis Platform
 
 
 Abstract
